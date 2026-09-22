@@ -1,3 +1,14 @@
+---
+title: Java Intermediate Tutorial
+author: Kiruthika Kannan
+date: 2026-09-26
+keywords: OOP
+---
+
+
+
+
+
 # 2. Methods, Arrays, Strings & Object-Oriented Programming
 
 [← Back](01-beginner.md) | [Index](README.md) | Next → [3. Collections, Generics, I/O](03-collections-generics-io.md)
