@@ -1,3 +1,13 @@
+---
+title: Java Beginner Tutorial
+author: Kiruthika Kannan
+date: 2026-09-22
+keywords: [ Java, OOP ] 
+---
+
+
+
+
 # 1. Beginner: Getting Started with Java
 
 [← Back to index](README.md) | Next → [2. Methods & OOP](02-intermediate-oop.md)
